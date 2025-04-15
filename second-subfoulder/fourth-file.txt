@@ -1,1 +1,3 @@
 Fourth file text
+
+Этот файл был изменен в новой ветке new-feature
